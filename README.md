@@ -1,13 +1,18 @@
 CarE - OBD-II Car Dashboard
 Installation 
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/RashadGarayev87/OBD)
+![GitHub last commit](https://img.shields.io/github/last-commit/RashadGarayev87/OBD)
+![GitHub](https://img.shields.io/github/license/RashadGarayev87/OBD)
 
 # 📥 
 
-| Version | File | Download link |
-|---------|----------|---------------|
-| -----------------------------------------------------------------------------------------------|
-| v2.0    | CarE_v2.0.apk | [Download](https://github.com/RashadGarayev87/OBD/releases/tag/v2.0) |
+# 📥 Download
+
+| Version | File           | Download Link                                                                 |
+|---------|---------------|-------------------------------------------------------------------------------|
+| v2.0    | CarE_v2.0.apk | [Download](https://github.com/RashadGarayev87/OBD/releases/download/v2.0/CarE_v2.0.apk) |
 | v3.0    | CarE_v3.0.apk | [Download](https://github.com/RashadGarayev87/OBD/releases/download/v3.0/CarE_v3.0.apk) |
+
 
 
 
