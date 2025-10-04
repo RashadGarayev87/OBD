@@ -1,6 +1,6 @@
 CarE - OBD-II Car Dashboard
 
-https://via.placeholder.com/200x200/2E86AB/FFFFFF?text=CarE
+
 
 A comprehensive Android OBD-II dashboard application for real-time vehicle monitoring and diagnostics, specifically optimized for Kia Sorento 2003 models.
 🚗 Features
