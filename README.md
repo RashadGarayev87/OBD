@@ -1,4 +1,13 @@
 CarE - OBD-II Car Dashboard
+###Installation 
+
+# 📥 
+
+| Versiya | Fayl Adı | Yükləmə Linki |
+|---------|----------|---------------|
+| v1.0    | CarE_v1.0.apk | [Download](https://github.com/RashadGarayev87/OBD/releases/download/v1.0/CarE_v1.0.apk) |
+| v2.0    | CarE_v2.0.apk | [Download](https://github.com/RashadGarayev87/OBD/releases/download/v2.0/CarE_v2.0.apk) |
+| v3.0    | CarE_v3.0.apk | [Download](https://github.com/RashadGarayev87/OBD/releases/download/v3.0/CarE_v3.0.apk) |
 
 
 
