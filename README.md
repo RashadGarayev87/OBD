@@ -40,6 +40,21 @@ It **does not work** on PCs, tablets without OBD-II support, or non-Android devi
 - **Trip Monitoring**: Dual trip tracking (Trip A & Trip B) with fuel consumption  
 - **Gear Position**: Automatic gear detection based on RPM and speed  
 
+In upcoming versions of CarE, we plan to introduce advanced features powered by Machine Learning and Computer Vision, including:
+
+📊 Driving Statistics & Analytics using ML for smarter insights
+
+🎥 USB Camera Integration to enable dashcam functionality
+
+🚦 Traffic Sign Recognition with real-time alerts
+
+🚗 Vehicle Distance Warning (safe following distance detection)
+
+🚶 Pedestrian Detection for improved road safety
+
+⚠️ Forward Collision / Hazard Warnings to notify the driver of potential dangers ahead
+
+These features will make CarE not only a monitoring app but also a driver assistance system.
 ### 🔧 Diagnostics
 - **Error Code Reading**: Read and clear DTC (Diagnostic Trouble Codes)  
 - **Comprehensive Sensor Data**: 25+ different sensor readings  
