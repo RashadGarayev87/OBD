@@ -14,6 +14,7 @@ A comprehensive Android OBD-II dashboard application for real-time vehicle monit
 |---------|---------------|-------------------------------------------------------------------------------|
 | v2.0    | CarE_v2.0.apk | [Download](https://github.com/RashadGarayev87/OBD/releases/download/v2.0/CarE_v2.0.apk) |
 | v3.0    | CarE_v3.0.apk | [Download](https://github.com/RashadGarayev87/OBD/releases/download/v3.0/CarE_v3.0.apk) |
+| v4.0    | CarE_v4.0.apk | [Download](https://github.com/RashadGarayev87/OBD/releases/tag/v4.0) |
 
 ---
 ---
