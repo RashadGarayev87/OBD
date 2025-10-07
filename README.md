@@ -23,7 +23,7 @@ A comprehensive Android OBD-II dashboard application for real-time vehicle monit
 This application is designed **only for vehicles and Android devices with compatible displays**.  
 It **does not work** on PCs, tablets without OBD-II support, or non-Android devices.
 
-## 🖼 Screenshots
+
 
 **Language & Screen Size Selection:**  
 ![Screen1](./screen1.png)
